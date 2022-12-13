@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+/*.class{
+    width:300px;
+    text-align: center;
+    border-radius: 5px;
+    color:black;
+    background-color: antiquewhite;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    justify-content: row;
+    display:flex;
+}*/
+h1{
+    text-align: center;
+    font-size: 35px;
+    color:blue;
+    
+}
+p{
+    text-align: left;
+    font-size: 15px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: greenyellow;
+    height:400px;
+    width:600px;
+    padding-right: 50px;              
+}
+#box1{
+    padding-top:20px;
+    
+
+    text-align: center;
+    height:70px;
+    width:150px;
+    font-size: 35px;
+    color:red;
+    font-weight: bold;
+    background-color: lightcyan;
+    display:flex;
+    justify-content: center;
+}
+#box11{
+    padding-top: 10px
+}
+#box22{
+    padding-top: 10px
+    
+}
+
+#box2{
+    
+    padding-top:20px;
+    text-align: center;
+    height:70px;
+    width:150px;
+    font-size: 35px;
+    color:red;
+     font-weight: bold;
+    background-color: lightcyan;
+    display:flex;
+    justify-content: center;
+
+}
+.one{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 60px;
+    
+}
+.two{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#reset{
+    height:20px;
+    width:60px;
+    background-color: light brown;
+}
+button{
+    padding-bottom: ;
+}
+#save-btn{
+
+    padding-top: 5px;
+    background-color: green;
+    color:rgb(116, 26, 26);
+    padding-bottom: 5px;
+    border-radius:10px;
+    font-weight: bolder;
+    font-size: 20px;
+    font-style: italic ;
+
+}
+
+
+#save1-btn{
+    
+    padding-top: 5px;
+    background-color: green;
+    color:rgb(116, 26, 26);
+    padding-bottom: 5px;
+    border-radius:10px;
+    font-weight: bolder;
+    font-size: 20px;
+    font-style: italic ;
+
+}
+#save-el{
+    color: black;
+    font-weight: bolder;
+  
+    
+
+}
+#save1-el{
+    color: black;
+    font-weight: bolder;
+  
+    
+
+}
+.p{
+    width:150px;
+    height:30px;
+    boder:1px solid red;
+}
+.winnerel{
+    text-align: center;
+    font-weight: bolder;
+    color:red;
+}
+.winnere{
+    text-align: center;
+    font-weight: bolder;
+    color:red;
+}
+
+
+
+
